@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqVaXbMYta9ZStKAa3SV/Pjw67Akgzr2ilIJ7L/Rdo4cgWUskeO8oDEyXXG0fcG0kP1vhzBUFWxf/AkNPBS67A==",
+  "dgSpecHash": "aCu/SoHS7aHtgakVDHYB+ccVV3wxD8n/H0mpak9b2jqzXaYwuBKeIr5pLq+0c1+Ng9OhFDmSYvFgCdJXfZvMcw==",
   "success": true,
-  "projectFilePath": "D:\\Riwi\\Desarrollo de Software\\C#\\Simulacro1\\Simulacro1.csproj",
+  "projectFilePath": "D:\\Riwi\\Desarrollo de Software\\simulacro1\\Simulacro1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maico\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\maico\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
